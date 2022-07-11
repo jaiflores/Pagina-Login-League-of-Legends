@@ -1,0 +1,111 @@
+*{
+    margin: 0;
+    padding: auto;
+    box-sizing: border-box;
+}
+@import url('https://fonts.googleapis.com/css2?family=Inter&family=Roboto:wght@100;400&display=swap');
+
+
+img{
+    width: 100%;
+    height: auto;
+}
+.img-jogo{
+position: absolute;
+margin: 0% 0% 5% 30%;
+width: 70%;
+}
+.logo-marca{
+    position: relative;
+    width: 10%;
+    margin: 6% 10%;
+}
+h1{
+    position: absolute;
+    font-family: 'Inter';
+    font-style: normal;
+    font-size: 1.2rem;
+    margin: -2% 12%;
+}
+.login{
+    
+    display: inline-block;
+    width: 10%;    
+}
+.form-login{
+    width: 300px;
+    height: 60px;
+    margin: 8% 40%;
+    background-color: #E8E6E6;
+}
+.legenda{
+    position: absolute;
+    margin: 1% 5%;
+    
+}
+.label-login{
+    font-size: 1rem;
+    font-family: "Inter";
+    font-weight: bolder;
+    
+}
+.manter-login{
+    margin-top: 5%;
+    margin-left: 3.8%;
+    
+}
+.facebook{
+    width: 110px;
+    height: 43px;
+    background-color:#2051FF;
+    border-radius: 5px;
+    margin: 0% 4%;
+}
+.img-facebook{
+    width: 30%;
+    margin: 10% 35%;
+}
+.google{
+    width: 110px;
+    height: 43px;
+    background-color: #8A0000;
+    border-radius: 5px;
+    margin: 0% 4%;
+}
+.img-google{
+    width: 30%;
+    margin: 10% 35%;
+}
+.apple{
+    width: 110px;
+    height: 43px;
+    background-color: black;
+    border-radius: 5px;
+    margin: 0% 4%;
+}
+.img-apple{
+    width: 30%;
+    margin: 10% 35%;
+}
+.conteiner{
+    display: flex;
+    position: absolute;
+    margin: 0% 3%;
+
+}
+button{
+    width: 51px;
+    height: 47px;
+    background: #FF002E36;
+    margin: 5% 12%;
+}
+.seta{
+    position: absolute;
+    width: 51px;
+    height: 47px;
+    margin: 5% -15.4%;
+    
+}
+.ativo{
+    background-color: #FF002E;
+}
